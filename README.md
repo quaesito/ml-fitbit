@@ -4,4 +4,4 @@ Fitness Trackers are a popular area of study amongst data scientists, statistici
 Worldwide, many insurance corporates have deliberately expressed interest in acquiring fitness trackers data. It is expected that health data from electronic sources could soon be compiled into a health or wellness report and shared with insurance companies to help them determine who they will cover.
 
 A thorough analysis of opensource Fitbit data is performed. The key findings are highlighted and discussed. The analysis provided herein is performed using 940 data points collected from 33 distinct users.
-Machine Learning Models are used to solve a regression problem using Multiple Linear Regression, Random Forest and Extreme Gradient Booster.
+Machine Learning Models are used to solve a regression problem using Multiple Linear Regression, Random Forest and Extreme Gradient Booster
