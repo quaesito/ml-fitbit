@@ -5,3 +5,9 @@ Worldwide, many insurance corporates have deliberately expressed interest in acq
 
 A thorough analysis of opensource Fitbit data is performed. The key findings are highlighted and discussed. The analysis provided herein is performed using 940 data points collected from 33 distinct users.
 Machine Learning Models are used to solve a regression problem using Multiple Linear Regression, Random Forest and Extreme Gradient Booster
+
+This project is associated with two medium stories including and discussing the two parts of the project, Exploratory Data Analysis and Machine Learning, respectively.
+If interested, you can check these two storeys at these two links:
+
+include link here
+include link here
