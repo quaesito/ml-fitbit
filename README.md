@@ -7,7 +7,7 @@ A thorough analysis of opensource Fitbit data is performed. The key findings are
 Machine Learning Models are used to solve a regression problem using Multiple Linear Regression, Random Forest and Extreme Gradient Booster
 
 This project is associated with two medium stories including and discussing the two parts of the project, Exploratory Data Analysis and Machine Learning, respectively.
-If interested, you can check these two storeys at these two links:
+If interested, you can check these two storeys at the following links:
 
-include link here
-include link here
+https://towardsdatascience.com/exploratory-data-analysis-eda-in-python-using-sql-and-seaborn-sns-d1f3bfcc78af
+https://towardsdatascience.com/solution-of-a-regression-problem-with-machine-learning-in-python-using-sklearn-and-xgboost-and-ea19afdfc067
