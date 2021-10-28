@@ -10,4 +10,5 @@ This project is associated with two medium stories including and discussing the 
 If interested, you can check these two storeys at the following links:
 
 https://towardsdatascience.com/exploratory-data-analysis-eda-in-python-using-sql-and-seaborn-sns-d1f3bfcc78af
+
 https://towardsdatascience.com/solution-of-a-regression-problem-with-machine-learning-in-python-using-sklearn-and-xgboost-and-ea19afdfc067
